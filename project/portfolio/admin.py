@@ -4,3 +4,4 @@ from .models import *
 
 admin.site.register(Contact)
 # Register your models here.
+admin.site.register(Blogs)
